@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"example.local/users/internal/models"
-	"example.local/users/internal/user"
+	"example.local/go-pilot/internal/models"
+	"example.local/go-pilot/internal/user"
 )
 
 // UserHandler represents http handler for user

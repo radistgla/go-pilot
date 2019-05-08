@@ -1,4 +1,4 @@
-module example.local/users
+module example.local/go-pilot
 
 go 1.12
 

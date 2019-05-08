@@ -6,9 +6,9 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"example.local/users/internal/user/delivery"
-	"example.local/users/internal/user/repository"
-	"example.local/users/internal/user/usecase"
+	"example.local/go-pilot/internal/user/delivery"
+	"example.local/go-pilot/internal/user/repository"
+	"example.local/go-pilot/internal/user/usecase"
 )
 
 func main() {

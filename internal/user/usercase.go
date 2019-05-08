@@ -1,7 +1,7 @@
 package user
 
 import (
-	"example.local/users/internal/models"
+	"example.local/go-pilot/internal/models"
 )
 
 // Usecase represet user's usecases
